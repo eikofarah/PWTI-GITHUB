@@ -1,8 +1,8 @@
 <?php
 $one = 'Fred';
-$two = 'Wilma';
-[$one, $two] = [$two, $one];
-echo $one, $two;
+$saya = 'Wilma';
+[$one, $saya] = [$saya, $one];
+echo $one, $saya;
 
 ?>
 
